@@ -1,0 +1,26 @@
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Logs ---
+*.log
+
+# --- Build / cache ---
+dist/
+build/
+.cache/
+
+# --- Dependencies (якщо будуть) ---
+node_modules/
+
+# --- Env files ---
+.env
+
+# --- Temporary files ---
+*.tmp
+*.bak
